@@ -57,12 +57,14 @@
     "@storybook/addon-actions": "^6.4.19",
     "@storybook/addon-essentials": "^6.4.19",
     "@storybook/addon-links": "^6.4.19",
+    "@storybook/addon-storyshots": "^6.4.20",
     "@storybook/builder-webpack5": "^6.4.19",
     "@storybook/manager-webpack5": "^6.4.19",
     "@storybook/node-logger": "^6.4.19",
     "@storybook/preset-create-react-app": "^4.0.1",
     "@storybook/react": "^6.4.19",
     "@types/styled-components": "^5.1.24",
+    "react-test-renderer": "^18.0.0",
     "webpack": "^5.70.0"
   }
 }
